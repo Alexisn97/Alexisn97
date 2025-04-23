@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Alexisn97
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Latest technologies in web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Contact me +250785138987
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Alexisn97/Alexisn97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Alexis NIYONKURU - Backend Developer & E-Commerce Enthusiast
+
+Welcome to my GitHub profile! I'm Alexis NIYONKURU, a passionate backend developer with a focus on building scalable and secure e-commerce solutions. I have experience in various technologies, including Node.js, TypeScript, and Stripe integration, and I’m constantly exploring new ways to improve user experience and operational efficiency.
+
+## About Me
+
+I'm currently pursuing my studies in E-Commerce at Jinhua University of Vocational Technology in China, and I also work as a backend developer at Kickside Rwanda Newspaper. I have a strong interest in both technology and business, and I'm particularly focused on building robust systems that scale, like e-commerce platforms and payment integration solutions.
+
+## Projects
+
+### 1. **Kickside Store E-Commerce Website**
+   - **Tech Stack**: Node.js, TypeScript, MongoDB, Stripe
+   - An e-commerce platform that integrates payment processing through Stripe, allowing users to make secure payments directly on the site. Admins can manage products and orders, while users can browse and purchase items with ease.
+   - GitHub: [Kickside Store Repo](https://github.com/your-username/kickside-store)
+
+### 2. **BNPL (Buy Now, Pay Later) Store**
+   - **Tech Stack**: Node.js, TypeScript
+   - A backend system that implements the BNPL model for e-commerce transactions. Users can buy items and pay in installments, with integrated payment tracking and verification.
+   - GitHub: [BNPL Store Repo](https://github.com/your-username/bnpl-store)
+
+### 3. **Ticketing Management System for Car Bus**
+   - **Tech Stack**: Node.js, MongoDB
+   - A ticket management system designed for car bus services, allowing users to book and manage tickets for their trips.
+   - GitHub: [Ticketing Management Repo](https://github.com/your-username/ticketing-management)
+
+## Contact Me
+
+Feel free to reach out for collaboration, inquiries, or just to discuss new tech!
+
+- **Email**: niyonkurua97@example.com
+- **Phone (Rwanda)**: +250 785138 987
+- **Phone (China)**: +86 182 5894 0901
+
+## Let's Connect!
+
+I'm always looking for new opportunities to grow and collaborate on innovative projects. If you have a project idea, feel free to reach out, and let’s create something amazing together.
