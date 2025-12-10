@@ -1,7 +1,7 @@
 
-# Alexis NIYONKURU - Backend Developer & E-Commerce Enthusiast
+# Alexis NIYONKURU - Full-Stack Developer & E-Commerce Enthusiast
 
-Welcome to my GitHub profile! I'm Alexis NIYONKURU, a passionate backend developer with a focus on building scalable and secure e-commerce solutions. I have experience in various technologies, including Node.js, TypeScript, and Stripe integration, and I’m constantly exploring new ways to improve user experience and operational efficiency.
+Welcome to my GitHub profile! I'm Alexis NIYONKURU, a passionate Full-stack developer with a focus on building scalable and secure e-commerce solutions. I have experience in various technologies, including Node.js with Typescript, TypeScript, React.ts and Payment integration syatem, and I’m constantly exploring new ways to improve user experience and operational efficiency.
 
 ## About Me
 
@@ -10,14 +10,9 @@ I'm currently pursuing my studies in E-Commerce at Jinhua University of Vocation
 ## Projects
 
 ### 1. **Kickside Store E-Commerce Website**
-   - **Tech Stack**: Node.js, TypeScript, MongoDB, Stripe
+   - **Tech Stack**: Node.js, TypeScript, React.ts, MongoDB, Stripe
    - An e-commerce platform that integrates payment processing through Stripe, allowing users to make secure payments directly on the site. Admins can manage products and orders, while users can browse and purchase items with ease.
-   - GitHub: [Kickside Store Repo](https://github.com/your-username/kickside-store)
-
-### 2. **BNPL (Buy Now, Pay Later) Store**
-   - **Tech Stack**: Node.js, TypeScript
-   - A backend system that implements the BNPL model for e-commerce transactions. Users can buy items and pay in installments, with integrated payment tracking and verification.
-   - GitHub: [BNPL Store Repo](https://github.com/your-username/bnpl-store)
+   - GitHub: [Kickside Store Repo](https://github.com/Alexisn97/kickside-store)
 
 ### 3. **Ticketing Management System for Car Bus**
    - **Tech Stack**: Node.js, MongoDB
